@@ -41,12 +41,12 @@ input{
 .opciones{
     display: inline-block;
 }
+
 /* Estilo para contenedor de barra de menú principal */
 .menu{
     width:1280px;
     height:198px;
     background: rgba(255,176,41,1);
-    /* (#fcae2a, #fbd13b); */
 }
 
 /* Estilos para contenedores pequeños de overview */
@@ -69,6 +69,29 @@ input{
 .central{
     margin:12px;
 }
+
+/*Estilo para números*/
+.numeral{
+	font-size: 36px;
+    color: #000000;
+    background-color: gainsboro;
+    width: 146px;
+    height: 55px;
+    margin-left: 24px;
+    padding-top: 13px;
+	
+}
+
+/*.porcentaje{
+	font-size: 36px;
+    color: #000000;
+    background-color: gainsboro;
+    width: 146px;
+    height: 55px;
+    margin-left: 24px;
+    padding-top: 13px;
+	display: in;
+}*/
 
 /* Hover sacado de internet (http://ianlunn.github.io/Hover/) */
 .hvr-fade {
