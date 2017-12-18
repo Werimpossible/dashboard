@@ -1,5 +1,5 @@
-# DASHBOARD LABORATORIA #
-Este dashboard hecho con HTML, CSS Y JS se creo para la visualización y manejo de data relacionado con las alumnas de laboratoria y su staff.
+# PRODUCTO: DASHBOARD LABORATORIA #
+Este dashboard hecho con HTML, CSS Y JS. Se creo para la visualización y manejo de data relacionado con las alumnas de laboratoria y su staff.
 Dicho dashboard, esta diseñado y estructurado para las Training Managers (TM) de todas las sedes de Laboratoria.
 
 - - - -
