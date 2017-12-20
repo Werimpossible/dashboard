@@ -3,8 +3,12 @@ Este dashboard hecho con HTML, CSS Y JS. Se creo para la visualización y manejo
 Dicho dashboard, esta diseñado y estructurado para las Training Managers (TM) de todas las sedes de Laboratoria.
 
 - - - -
+## Tabla de Contenido
+1. [Antecendentes usabilidad] (#usabilidad)
+1. [El usuario] (#usuario)
 
-## Antecendentes de usabilidad y reasons-why de dashboard ##
+
+## Antecendentes de usabilidad <a id="usabilidad"></a> ##
 > ## Objetivo y delimitación del usuario ##
  * __Nivel de conocimientos de manejor de interfaces del usuario:__
     * Conocimiento basico-intermedio. Puede ejecutar y comprender pasos basicos y rapidos para el manejor de la información.
@@ -28,7 +32,7 @@ De la base de datos dada, se establecio lo siguiente:
 
 ---
 
-> ## Mapa de sitio ##
+> [Mapa de sitio y arquitectura de la información] (#MapaDeDitio)
 * Se establecio el siguiente mapa de sitio:
 
 * <img src=assets/images/maquetados/mapa.png>
