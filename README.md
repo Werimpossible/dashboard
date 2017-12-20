@@ -8,7 +8,7 @@ Dicho dashboard, esta diseñado y estructurado para las Training Managers (TM) d
 1. [El usuario] (#usuario)
 
 
-## Antecendentes de usabilidad <a id="usabilidad"></a> ##
+## <a name="usabilidad"></a> Antecendentes de usabilidad
 > ## Objetivo y delimitación del usuario ##
  * __Nivel de conocimientos de manejor de interfaces del usuario:__
     * Conocimiento basico-intermedio. Puede ejecutar y comprender pasos basicos y rapidos para el manejor de la información.
